@@ -33,7 +33,7 @@ Most existing secular groups suffer from being either too academic (Ethical Cult
 
 The Noesian framework introduces a unique mutation into the ecosystem:
 
-* **It names human biology explicitly.** It treats ritual not as a nice theatrical performance, but as vital psychological and neurological maintenance required to cool the amygdala and regulate the mammalian nervous system.
+* **It names human biology explicitly.** It treats ritual not as a nice theatrical performance, but as vital psychological and neurological maintenance required to cool the emotions and regulate the mammalian nervous system.
 * **It integrates data-driven governance.** It doesn't just form a casual committee; it treats policy as a falsifiable hypothesis with a built-in sunset clause and an open ledger.
 * **It rejects compromise.** It doesn't soften its edges to appeal to vague spirituality. It leans into the raw, uncompromising awe of physical reality, physics, and empirical evidence.
 
