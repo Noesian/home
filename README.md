@@ -37,3 +37,6 @@ Provides analytical essays and structural reviews of the existing secular landsc
 This handbook and all adjacent directories do not represent an unchangeable sacred monument. They are treated as living, error-tested, and falsifiable hypotheses. When reality updates, our architecture updates.
 
 The gates to our sanctuaries do not lock from the inside. Step forward into reality and help us design a better way to live.
+
+## Contact
+Bruce Perens <bruce@perens.com>
