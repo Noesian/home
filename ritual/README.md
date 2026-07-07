@@ -29,6 +29,7 @@ The ceremonies, vows, and observances contained within this directory are tools 
 * **[The Assembly of Solace](assembly_of_solace.md)** – Convened in the immediate aftermath of a natural disaster or community tragedy to provide physical presence, shared grief, and logistical mutual aid without false comfort.
 * **[The Celebration of Dissent](celebration_of_dissent.md)** – Honors the friction, skepticism, and courage of the outlier that prevents intellectual stagnation and groupthink.
 * **[The Rite of Exit](rite_of_exit.md)** – A profound celebration of intellectual sovereignty for individuals choosing to leave the community, ensuring the gates remain open and free of coercion or shaming.
+* **[The Guard Against Talmud](guard_against_talmud.md)** – How the Noesian community protects itself from endless elaboration and purposeless argument.
 
 ## Personal Acknowledgments & Affirmations
 * **[The Observance of Awakening](observance_of_awakening.md)** – A morning meditation acknowledging the biological miracle of waking up and claiming agency for the day ahead.
@@ -44,3 +45,4 @@ The ceremonies, vows, and observances contained within this directory are tools 
 * **[The Acknowledgment of Illness and Stewardship](acknowledgment_of_illness_and_stewardship.md)** – Conducted upon receiving a difficult diagnosis. Strips the moral weight from sickness and affirms the profound responsibility of active, evidence-based medical advocacy.
 * **[The Ceremony of Reform](ceremony_of_reform.md)** – A personal or communal process for confronting one's missteps, accepting responsibility, and engineering material restitution.
 * **[The Mourning Acknowledgment of Injustice](mourning_acknowledgment_of_injustice.md)** – Validates the rage and grief following a systemic failure or act of oppression, transmuting it into grounded, restorative action.
+* **[The Confrontation of Death](confrontation_of_death.md)** – The absolute certainty of my death, and the fact that this is the only life we have.

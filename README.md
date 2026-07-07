@@ -1,23 +1,26 @@
 # Humanism and The Architecture of Belonging.
 
-**The universe is vast, magnificent, and entirely indifferent to us—*but we are not indifferent to each other.***
+> We do not inherit a meaningful universe. Together, we make it one.
 
 ## What is the Noesian Movement?
-Noesianism is a fiercely rational, deeply empathetic operating system for a secular life. For centuries, the secular movement excelled at the intellectual teardown of ancient dogmas, yet mistakenly abandoned the profound psychological and social technology that traditional institutions had monopolized: community, mutual support, and life-transition rituals. By surrendering ceremony to superstition, secularism left millions intellectually free but socially isolated.
+Noesianism is a fiercely rational, deeply empathetic system for a secular life. For centuries, the secular movement excelled at the intellectual teardown of ancient dogmas, yet mistakenly abandoned the profound psychological and social technology that religious institutions had monopolized: community, mutual support, and life-transition rituals. By surrendering ceremony to superstition, secularism left millions intellectually free but socially isolated.
 
 The Noesian movement is the corrective. We do not offer divine scripts, false hope, or cosmic destinies. Instead, we wrap the unyielding facts of physical reality in human solidarity, radical agency, epistemic humility, and empirical mutual aid. We shift humanism from a passive philosophical stance into an active and lived culture.
 
 ---
 
+**A good introduction to our movement is in
+[An Introduction to the Noesian Philosophy](commentary/introduction_to_noesian_philosophy.md)**
+
 ## Map
 
 Explore the folders below to understand, deploy, or adapt the architecture of belonging:
 
-### [manual](noesian_manual/complete_manual.md)
-Operating manual for a Noesian community.
-
 ### 📂 [ritual](ritual/)
 The library of functional, non-supernatural ceremonies, civic observances, oaths of stewardship, and personal affirmations. These scripts use cosmic awe, empirical science, and raw human art to regulate the mammalian nervous system and provide localized social safety nets during life's major transitions.
+
+### [manual](noesian_manual/complete_manual.md)
+Operating manual for a Noesian community.
 
 ### 📂 [policy](policy/)
 Contains the core foundational definitions, official manifestos, and theoretical arguments underpinning our culture. It details the complete rationale behind the reclamation of human ritual and establishes the strict rules governing our worldview.
